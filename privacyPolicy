@@ -1,0 +1,65 @@
+Privacy Policy for FridgeMate
+
+Last Updated: 29 January 2025
+
+1. Data Collection
+We collect the following information to provide app functionality:
+
+a) Camera Access
+Used only to scan QR codes/barcodes of food products.
+
+No images are stored or uploaded to our servers.
+
+b) Product Data
+Scanned barcode data is sent to OpenFoodFacts API to retrieve product details.
+
+OpenFoodFacts' Privacy Policy: https://world.openfoodfacts.org/privacy
+
+c) User-Added Information
+Items added to your fridge (product names, expiry dates).
+
+Shopping list entries and recipe preferences.
+
+d) Third-Party APIs
+Edamam API (recipe generation): Ingredients from your fridge are sent to retrieve recipes.
+
+Edamam's Privacy Policy: https://www.edamam.com/privacy/
+
+e) Optional Permissions
+Notifications: To remind you of expiry dates (requires device permission).
+
+2. Data Storage
+Fridge inventory, expiry dates, and shopping lists are stored locally on your device.
+
+Expiry date alerts use device-specific notifications.
+
+3. Third-Party Services
+We use:
+
+OpenFoodFacts (product data)
+
+Edamam (recipes)
+
+Links to their privacy policies are included above.
+
+4. Data Sharing
+We do not sell or share your personal data with advertisers or third parties unrelated to core functionality.
+
+Data is only shared with OpenFoodFacts/Edamam APIs to fulfill app features.
+
+5. Security
+Data is protected using encryption (SSL) during transmission.
+
+Local device data is secured via your device’s OS protections.
+
+6. User Rights
+You can delete your fridge/shopping list data at any time by deleting the app.
+
+7. Children’s Privacy
+The app is not intended for users under 8 years old. We do not knowingly collect data from children.
+
+8. Changes to This Policy
+Updates will be posted here. Continued app use implies acceptance.
+
+9. Contact Us
+For questions or any other issues, contact: cilydestudios@gmail.com
